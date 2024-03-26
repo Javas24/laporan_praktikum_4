@@ -21,7 +21,7 @@ class Recipe {
       ],
     ),
     Recipe(
-      'Nasi Gila',
+      'Pecel Blitar',
       '60e913854b2dc.jpg',
       2,
       [

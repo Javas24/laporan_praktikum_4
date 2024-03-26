@@ -1,0 +1,26 @@
+name: laporan_praktikum_4
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+assets:
+  - assets/60e913857b2dc.jpg
+  - assets/614dc6865eb24.jpg
+  - assets/kulit-ayam-crispy-geprek.jpg
+  - assets/shutterstock_755530408.jpg
+  - assets/shutterstock_2135788035-500x300.jpg
